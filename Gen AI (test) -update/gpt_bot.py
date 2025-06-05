@@ -12,7 +12,7 @@ from demo_prompt import system_prompt, functions
 
 #OpenAI GPT model number:gpt-3.5-turbo-1106
 #openai.api_key = "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"
-openai.api_key = "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"
+openai.api_key = "sk-proj-KEY"
 
 def validate_required(args, required_keys):
     print("validate:",args, required_keys)
